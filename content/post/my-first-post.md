@@ -1,11 +1,34 @@
 ---
 date: 2014-03-10
-linktitle: Migrating from Jekyll
+linktitle: Title of first record
 menu:
   main:
-    name: Jekyll migration
-prev: /tutorials/mathjax
-title: Migrate to Hugo from Jekyll
+    name: Posts
+
+title: First blog record
 weight: 10
+tags: 
+  ["rant"]
+categories:
+  ["Blog"]
 draft: true
 ---
+
+Should look like a Title
+===============
+
+# First
+## Like a heading
+
+* list
+* list 
+
+---
+
+Dla _bold_ **italic text** =don't know= dla dla.
+
+> Blockquotes
+
+Another line.
+
+End.

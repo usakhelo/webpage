@@ -5,3 +5,21 @@ menu: main
 draft: true
 ---
 
+## Descr Title
+
+Stupid description
+
+## Tools I use
+
+* Far manager
+* XnView
+* Another Weird thing
+
+## Hobbies
+
+* Important link
+* Another one
+
+The End.
+
+---
